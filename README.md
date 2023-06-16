@@ -1,6 +1,6 @@
 # saran_learnrepo
 1. Create a python file named learngit.py
-2. Itshows 'Hello world' as output
+2. It shows 'Hello world' as output
 3. Whole project is deployed in Flask api
 4. Create a Virtual environment on the machine - 'py -m venv myEnv'
 5. Activate the environment by using 'myEnv\Scripts\activate'
